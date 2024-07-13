@@ -1,3 +1,7 @@
+
+# development environment
+.idea/
+
 # Local .terraform directories
 **/.terraform/*
 
